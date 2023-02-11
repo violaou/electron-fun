@@ -2,15 +2,16 @@
   "name": "electron-fun",
   "version": "1.0.0",
   "description": "fun",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/violaou/electron-fun.git"
   },
-  "author": "",
+  "author": "viola",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/violaou/electron-fun/issues"
