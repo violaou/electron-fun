@@ -19,5 +19,8 @@
   "homepage": "https://github.com/violaou/electron-fun#readme",
   "devDependencies": {
     "electron": "^23.0.0"
+  },
+  "dependencies": {
+    "python-shell": "^5.0.0"
   }
 }
